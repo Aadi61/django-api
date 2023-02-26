@@ -1,3 +1,3 @@
 import requests
-response=requests.get('http://127.0.0.1:8000/drinks/')
+response=requests.get('https://github.com/Aadi61/github_Aadi61.github.io.git')
 print(response.json())
